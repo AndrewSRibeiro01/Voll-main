@@ -21,3 +21,6 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 - MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
 - Recharts: Biblioteca para criação de gráficos utilizando React.
 # Voll-main
+
+
+Figma do projeto
