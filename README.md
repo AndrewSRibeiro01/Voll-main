@@ -24,3 +24,4 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 
 
 Figma do projeto
+https://www.figma.com/file/l2srX2h3UhEGPAnp0qyJpX/React-com-TS---Dashboard?type=design&node-id=246-3606&t=IKwlkAMhQH4TmvDB-0
